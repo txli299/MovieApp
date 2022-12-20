@@ -33,7 +33,7 @@
 ### Main Page
 ![Home page](https://dmnnu4m.media.bublupcdn.com/4R5Xe1EgroUQJZeq5x2Guw/images/full_007-im-fb73f980-6ea9-4bb0-9d00-2d9806386fe4.jpg)
 
-It's a practuce of using movie API to build a dynamic website for users to check the 20 hotest movies
+It's a practuce of using movie API to build a dynamic website for users to check the 20 highest rated movies
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
