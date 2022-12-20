@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ### Main Page
-![Home page](https://cfxgocx.media.bublupcdn.com/8ZcfwitaTxLYJvZmXsUuYA/images/full_007-im-25fa5853-d4e2-4ae1-b6d4-1725e519219e.jpg)
+![Home page](https://dmnnu4m.media.bublupcdn.com/4R5Xe1EgroUQJZeq5x2Guw/images/full_007-im-fb73f980-6ea9-4bb0-9d00-2d9806386fe4.jpg)
 
 It's a practuce of using movie API to build a dynamic website for users to check the 20 hotest movies
 
@@ -58,7 +58,6 @@ It's a practuce of using movie API to build a dynamic website for users to check
 <!-- CONTACT -->
 ## Contact
 Tuoxin Li - li.tuox@northeastern.edu
-Ruijia Xiong - Xiong.ru@northeastern.edu
 
 Project Link: [https://github.com/txli299/MovieApp](https://github.com/txli299/MovieApp)
 
